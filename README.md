@@ -1,18 +1,19 @@
 # Applied Data Science @ Columbia
-## Fall 2023
-## Project 1: What made you happy today?
+## Spring 2024
+## Project 1: A "Data Story" on how to choose a good wine 
 
-![image](figs/title.jpeg)
+<img src="figs/ChiantiComes.jpeg" width="500">
 
-### [Project Description](doc/Proj1_desc.md)
+### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
-Term: Fall 2023
+Term: Spring 2024
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Do you really know about wine? A guideline of finding good wines
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ This project is conducted by [Rui Chen]
+
++ Project summary: [This article explores some interesting methods for finding good rating wine, utilizing data from Vivino. Firstly, it showed a slightly positive relationship between wine prices and its ratings, revealing that higher prices don’t guarantee better rating. It also states that wines from “Chilean” could serve as a high-value option, offering a better rating without the premium price. Additionally, this article finds out that some common words in high-rated wine names, suggesting a strong French influence, which can help people to make a good wine selection when they are purchasing wines!]
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
